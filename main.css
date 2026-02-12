@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:#483bd0;
+}
+
+h2{
+    color: #483bd0;
+}
+
+h3{
+    color: gold;
+}
+
+h4{
+    color: darkorange;
+    font-family: "quokka", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  font-size: xx-large;
+}
